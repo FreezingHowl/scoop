@@ -11,7 +11,7 @@
         },
         "32bit": {
             "url": "https://nodejs.org/dist/v16.18.0/node-v16.18.0-win-x86.7z",
-            "hash": "70954db61797d4d995d21dcced2d7e0169123143e97a12160aed2577ff8392ba",
+            "hash": "25caf14762fc76251e826562e7111baf7adaef268a618c0c87eadb26fe93eeb9",
             "extract_dir": "node-v16.18.0-win-x86"
         }
     },
